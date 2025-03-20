@@ -1,0 +1,18 @@
+{
+    "name": "microbit-servo-sweeper",
+    "version": "0.1.0",
+    "description": "A micro:bit extension for controlling servo motors with a focus on interactive motion. Easily set angles, sweep between angles with adjustable speed, and stop the sweep using Button A—perfect for student projects like robotic arms or animated models.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
